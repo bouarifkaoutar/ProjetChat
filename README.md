@@ -10,7 +10,7 @@ Réaliser une application Chat en utilisant le mode non connecté
 # ****Usage :****
     # le fichier test1.sql contient la base de donnée du projet.
     # Exécuter la classe Mainserver.*
-    # Exécuter la classe MainClient deux foix ou plus pour lancer les clients.*
+    # Exécuter la classe MainClient deux foix ou plus pour lancer les clients.
 # ****Simulation****
 # **l'interface 1:**
   
