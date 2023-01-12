@@ -2,8 +2,8 @@
 # *****Objectif :***** 
 Réaliser une application Chat en utilisant le mode non connecté 
 # *****Fonctionnalités :****
- Inscription des utilisateurs
- #
+# Inscription des utilisateurs
+
 ##### Authentification des utilisateurs
 ##### Envoi et Recevoir message
 # *****Usage :****
