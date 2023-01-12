@@ -1,5 +1,5 @@
 # ProjetChat
-*****Objectif :***** 
+# *****Objectif :***** 
 Réaliser une application Chat en utilisant le mode non connecté 
 *****Fonctionnalités :****
 -Inscription des utilisateurs
