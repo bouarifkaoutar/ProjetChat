@@ -37,8 +37,8 @@ Réaliser une application Chat en utilisant le mode non connecté
     # -la classe server (recevoir le message du client et envoyer a l'ami )
     # -la classe sendingMessage(envoi du message)
     # -la classe Connexion (pour la base de donnée)
-    #  -la classe MessagwAncien (pour stocker les messages des personnes non connecté)
-    #  -la classe session (pour stocker le port et le nom du personne connecté )
+    # -la classe MessagwAncien (pour stocker les messages des personnes non connecté)
+    # -la classe session (pour stocker le port et le nom du personne connecté )
 
 
  
