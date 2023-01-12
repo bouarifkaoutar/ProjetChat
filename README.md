@@ -2,13 +2,13 @@
 # *****Objectif :***** 
 Réaliser une application Chat en utilisant le mode non connecté 
 # *****Fonctionnalités :****
-## Inscription des utilisateurs
-# *Authentification des utilisateurs*
-# *-Envoi et Recevoir message*
+##### Inscription des utilisateurs
+##### Authentification des utilisateurs
+##### Envoi et Recevoir message
 # *****Usage :****
-# *-le fichier test1.sql contient la base de donnée du projet.*
-# *-Exécuter la classe Mainserver.*
-# *-Exécuter la classe MainClient deux foix ou plus pour lancer les clients.*
+##### le fichier test1.sql contient la base de donnée du projet.*
+##### Exécuter la classe Mainserver.*
+##### Exécuter la classe MainClient deux foix ou plus pour lancer les clients.*
 # ****Simulation****
 # **l'interface 1:**
   
