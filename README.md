@@ -14,10 +14,12 @@ Réaliser une application Chat en utilisant le mode non connecté
 # ****Simulation****
 # **l'interface 1:**
   
-# Pour se connecter ou faire l'inscription :
+   # Pour se connecter ou faire l'inscription :
 
 ![git1](https://user-images.githubusercontent.com/108548578/212135762-a645ca54-cf69-4a4d-812d-c3b3c43f0998.PNG)
-    # Si le compte ne se trouve pas dans la base de donnée:
+
+   # Si le compte ne se trouve pas dans la base de donnée:
+   
 ![git5](https://user-images.githubusercontent.com/108548578/212140458-257254ba-d678-40a5-a29e-0d62cb1bfc99.PNG)
 
 
@@ -37,6 +39,6 @@ Réaliser une application Chat en utilisant le mode non connecté
     # -la classe Connexion (pour la base de donnée)
     #  -la classe MessagwAncien (pour stocker les messages des personnes non connecté)
     #  -la classe session (pour stocker le port et le nom du personne connecté )
--
+
 
  
